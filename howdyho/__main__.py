@@ -1,5 +1,3 @@
-from . import main
+from howdyho import while_true_print_howdyho_help
 
-
-if __name__ == '__main__':
-    main()
+while_true_print_howdyho_help()
