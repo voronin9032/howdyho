@@ -2,7 +2,7 @@
 name = "howdyho"
 version = "3.0"
 description = ""
-authors = ["voronin9032 <voronin9032n3@gmail.com>"]
+authors = ["Voronin9032 <voronin9032n3@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
